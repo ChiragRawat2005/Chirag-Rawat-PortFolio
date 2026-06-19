@@ -72,7 +72,7 @@ const Work = () => {
                 </p>
               </div>
               <a
-                href="http://scm2.ap-south-1.elasticbeanstalk.com/"
+                href="https://scm-java-fullstack-production.up.railway.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="work-image-link"
